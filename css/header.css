@@ -1,1 +1,10 @@
-@import url(header.css);
+h1 {
+	font-family: 'Graphik';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 74px;
+	line-height: 84px;
+	text-align: center;
+	letter-spacing: 0.2px;
+	color: #FFFFFF;
+}
