@@ -10,6 +10,10 @@
 h1 {
 	color: #FFFFFF;
     font-family: 'Poppins', sans-serif;
+    font-size: 74px;
+    line-height: 84px;
+    text-align: center;
+    letter-spacing: 0.2px;
 }
 img {
     display: block;
