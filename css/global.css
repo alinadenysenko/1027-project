@@ -11,3 +11,7 @@ h1 {
 	color: #FFFFFF;
     font-family: 'Poppins', sans-serif;
 }
+img {
+    display: block;
+    width: 100;
+}
