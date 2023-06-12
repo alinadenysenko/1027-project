@@ -1,0 +1,7 @@
+.header_menu {
+    display: flex;
+}
+.header_menu .menu_item {
+    text-decoration: none;
+    color: #ffff;
+}
