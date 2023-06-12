@@ -5,3 +5,14 @@
     text-decoration: none;
     color: #ffff;
 }
+.header_menu .menu_item:hover {
+    text-decoration: underline;
+}
+@media (min-width: 500px) {
+    .header_nav {
+        display: flex;
+    }
+    .header_menu {
+        flex-direction: row;
+    }
+}
