@@ -6,6 +6,8 @@
 }
 :root {
 	scroll-behavior: smooth;
+    --button-background-color: #2091f9;
+    --main-text-color: #ffff;
 }
 h1 {
     font-family: 'Poppins', sans-serif;
