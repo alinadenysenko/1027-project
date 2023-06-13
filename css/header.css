@@ -3,7 +3,7 @@
 }
 .header_menu .menu_item {
     text-decoration: none;
-    text-decoration-color: #ffff;
+    text-decoration-color: var(--main-text-color);
 }
 .header_menu .menu_item:hover {
     text-decoration: underline;
