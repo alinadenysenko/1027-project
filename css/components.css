@@ -2,7 +2,6 @@
     background-color: var(--button-background-color);
     color: var(--main-text-color);
     cursor: pointer;
-    border-radius: 35px;
     align-items: center;
     padding: 16px 0px;
     text-align: center;
