@@ -21,15 +21,3 @@
 .header_menu .menu_item:hover {
 	text-decoration: underline;
 }
-@media (min-width: 500px) {
-	.header__nav {
-		display: flex;
-	}
-
-	.header__menu {
-		flex-direction: row;
-		align-items: center;
-		justify-content: space-around;
-		flex: 1;
-	}
-}
