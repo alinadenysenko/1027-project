@@ -12,7 +12,9 @@
 	display: flex;
 	flex-direction: row;
 }
-
+.header-text {
+	color: var(--main-text-color);
+}
 .header_menu .menu_item {
 	text-decoration: none;
 	color: var(--main-text-color);
